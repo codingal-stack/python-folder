@@ -1,0 +1,6 @@
+Algorithim for adding 2 numbers
+1 give input of number 1 and number2
+2 add number1 and number 2
+sum <= number1 and number2 
+3 print sum
+4 stop
